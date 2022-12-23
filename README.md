@@ -1,4 +1,3 @@
-# hanchorong.github.io
 
 Javascript 챌린지 final 과제
 
