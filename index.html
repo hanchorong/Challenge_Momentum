@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./css/style.css" />
+    <title>Momentum</title>
+    <script
+      src="https://kit.fontawesome.com/c44f54db1d.js"
+      crossorigin="anonymous"
+    ></script>
+  </head>
+  <body>
+    <div id="bg"></div>
+    <div id="clock">
+      <div></div>
+      <div></div>
+    </div>
+    <div class="container">
+      <div id="greeting">
+        <form class="hidden">
+          <input type="text" placeholder="What is your name?" />
+          <input type="submit" value="Enter" />
+        </form>
+        <div id="printName" class="hidden"></div>
+      </div>
+
+      <div id="weather">
+        <span class="city"></span>
+        <div class="flex">
+          <span></span>
+          <span class="spanStyle"></span>
+        </div>
+      </div>
+
+      <div id="todos">
+        <form>
+          <input
+            type="text"
+            placeholder="Write a To Do and Press Enter"
+            maxlength="25"
+          />
+          <input type="submit" value="Enter" />
+        </form>
+        <div><ul></ul></div>
+      </div>
+
+      <div id="quotes">
+        <h2>Quotes.</h2>
+        <div class="inside">
+          <div class="quote"></div>
+          <div class="author"></div>
+        </div>
+      </div>
+    </div>
+
+    <script type="text/javascript" src="./apiKey.js"></script>
+    <script src="./js/clock.js"></script>
+    <script src="./js/greetings.js"></script>
+    <script src="./js/todos.js"></script>
+    <script src="./js/weather.js"></script>
+    <script src="./js/quotes.js"></script>
+    <script src="./js/bg.js"></script>
+  </body>
+</html>
