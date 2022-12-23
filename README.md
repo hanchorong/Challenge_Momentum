@@ -10,4 +10,5 @@ Javascript 챌린지 final 과제
 - css: 반응형.
 
 GIF
+
 ![momentum](https://i.ibb.co/86gLYcd/ezgif-com-gif-maker-1.gif)
