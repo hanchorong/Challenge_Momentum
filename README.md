@@ -9,4 +9,5 @@ Javascript 챌린지 final 과제
 - quotes : 랜덤하게 array안의 명언 보여지게 하기. 
 - css: 반응형.
 
-![momentum](https://i.ibb.co/ZTTzBzb/ezgif-com-gif-maker.gif)
+GIF
+![momentum](https://i.ibb.co/86gLYcd/ezgif-com-gif-maker-1.gif)
