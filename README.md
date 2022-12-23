@@ -1,7 +1,5 @@
 # hanchorong.github.io
 
-https://hanchorong.github.io/Challenge_Momentum/
-
 Javascript 챌린지 final 과제
 
 - Login : 로컬스토리지를 이용한 로그인.
